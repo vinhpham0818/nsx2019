@@ -1,0 +1,10 @@
+table {
+    border: 1px solid black;
+    width: 100%;
+}
+thead {
+    background-color: aqua;
+}
+tbody {
+    background-color: bisque;
+}
